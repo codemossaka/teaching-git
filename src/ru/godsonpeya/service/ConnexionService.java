@@ -1,6 +1,8 @@
-package ru.godsonpeya;
+package ru.godsonpeya.service;
 
-public class Connexion {
+import ru.godsonpeya.entity.Person;
+
+public class ConnexionService {
 
     public void connect(Person person){
         System.out.println(person.getName()+" est connecte");

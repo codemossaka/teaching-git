@@ -1,4 +1,4 @@
-package ru.godsonpeya;
+package ru.godsonpeya.service;
 
 public class PersonService {
 }

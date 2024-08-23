@@ -1,4 +1,4 @@
-package ru.godsonpeya;
+package ru.godsonpeya.entity;
 
 public class Person {
 
