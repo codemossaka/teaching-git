@@ -1,2 +1,4 @@
-package ru.godsonpeya;public class Animal {
+package ru.godsonpeya;
+
+public class Animal {
 }
